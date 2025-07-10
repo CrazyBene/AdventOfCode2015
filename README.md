@@ -1,7 +1,7 @@
 # Advent Of Code 2015
 
-![Days completed](https://img.shields.io/badge/Days%20Completed-1-green)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-2-yellow)
+![Days completed](https://img.shields.io/badge/Days%20Completed-2-green)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-4-yellow)
 ![Help Needed](https://img.shields.io/badge/Help%20Needed%20➕-0-purple)
 ![Not Solved](https://img.shields.io/badge/Not%20Solved%20❌-0-red)
 
@@ -13,9 +13,10 @@ from Jetbrains.
 
 ### Daily Solution Index
 
-| Day |          Title          | Part 1 | Part 2 |                                              Code                                               |
-|:---:|:-----------------------:|:------:|:------:|:-----------------------------------------------------------------------------------------------:|
-| 01  | [Not Quite Lisp][day01] |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day01.kt) |
+| Day |                   Title                    | Part 1 | Part 2 |                                              Code                                               |
+|:---:|:------------------------------------------:|:------:|:------:|:-----------------------------------------------------------------------------------------------:|
+| 01  |          [Not Quite Lisp][day01]           |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day01.kt) |
+| 02  | [I Was Told There Would Be No Math][day02] |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day02.kt) |
 
 [^aoc-footnote]:
 [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
@@ -29,3 +30,5 @@ You can solve the puzzle and provide an answer using the language of your choice
 [aoc]: https://adventofcode.com
 
 [day01]: https://adventofcode.com/2015/day/1
+
+[day02]: https://adventofcode.com/2015/day/2
