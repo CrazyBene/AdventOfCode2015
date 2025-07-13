@@ -1,7 +1,7 @@
 # Advent Of Code 2015
 
-![Days completed](https://img.shields.io/badge/Days%20Completed-3-green)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-6-yellow)
+![Days completed](https://img.shields.io/badge/Days%20Completed-4-green)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-8-yellow)
 ![Help Needed](https://img.shields.io/badge/Help%20Needed%20➕-0-purple)
 ![Not Solved](https://img.shields.io/badge/Not%20Solved%20❌-0-red)
 
@@ -18,6 +18,7 @@ from Jetbrains.
 | 01  |             [Not Quite Lisp][day01]             |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day01.kt) |
 | 02  |   [I Was Told There Would Be No Math][day02]    |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day02.kt) |
 | 03  | [Perfectly Spherical Houses in a Vacuum][day03] |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day03.kt) |
+| 04  |       [The Ideal Stocking Stuffer][day04]       |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/Day04.kt) |
 
 [^aoc-footnote]:
 [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
@@ -35,3 +36,5 @@ You can solve the puzzle and provide an answer using the language of your choice
 [day02]: https://adventofcode.com/2015/day/2
 
 [day03]: https://adventofcode.com/2015/day/3
+
+[day04]: https://adventofcode.com/2015/day/4
